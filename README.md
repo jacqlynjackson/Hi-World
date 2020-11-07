@@ -1,2 +1,3 @@
 # Hi-World
-Class Participation
+Class Participation 
+Jacqlyn Jackson created branch readme-edits. 
